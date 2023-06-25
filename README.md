@@ -8,6 +8,7 @@ My first Android project using Java:
 - RecyclerView adapter to convert the data objects to List items.
 -  WebView For the About button.
 - Gradle Build Tool.
+## To download APK press [here]([https://github.com/LeagueOfPoro/EsportsCapsuleFarmer/releases](https://github.com/AndrewSamir96/MyLibrary/blob/master/APK/MyLibrary.apk))
 # Screenshots
 
 
