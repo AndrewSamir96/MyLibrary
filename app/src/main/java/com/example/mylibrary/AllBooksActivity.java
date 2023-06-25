@@ -14,7 +14,6 @@ public class AllBooksActivity extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
-        //hello world
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_all_books);
         adapter = new BookRecViewAdapter(this,"allBooks");
