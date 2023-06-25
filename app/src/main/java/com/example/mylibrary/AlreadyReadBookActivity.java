@@ -7,7 +7,6 @@ import androidx.recyclerview.widget.RecyclerView;
 import android.content.Intent;
 import android.os.Bundle;
 
-import com.bumptech.glide.util.Util;
 
 public class AlreadyReadBookActivity extends AppCompatActivity {
 
